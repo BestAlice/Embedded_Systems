@@ -1,0 +1,125 @@
+5348
+
+name .text
+VirtualSize 1c350
+VirtualAddress 1000
+SizeOfRawData 1d000
+PointerToRawData 1000
+PointerToRelocations 0
+PointerToLinenumbers 0
+NumberOfRelocations 0
+NumberOfLinenumbers 0
+Characteristics 60000020
+
+name .data
+VirtualSize acc
+VirtualAddress 1e000
+SizeOfRawData 1000
+PointerToRawData 1e000
+PointerToRelocations 0
+PointerToLinenumbers 0
+NumberOfRelocations 0
+NumberOfLinenumbers 0
+Characteristics c0000040
+
+name .rsrc
+VirtualSize c3c
+VirtualAddress 1f000
+SizeOfRawData 1000
+PointerToRawData 1f000
+PointerToRelocations 0
+PointerToLinenumbers 0
+NumberOfRelocations 0
+NumberOfLinenumbers 0
+Characteristics 40000040
+
+02600
+
+name 
+VirtualSize 0
+VirtualAddress 40000040
+SizeOfRawData 6164702e
+PointerToRawData 6174
+PointerToRelocations 264
+PointerToLinenumbers 5000
+NumberOfRelocations 400
+NumberOfLinenumbers 0
+Characteristics 00003000
+
+name 
+VirtualSize 0
+VirtualAddress 40000040
+SizeOfRawData 6164782e
+PointerToRawData 6174
+PointerToRelocations 26c
+PointerToLinenumbers 6000
+NumberOfRelocations 400
+NumberOfLinenumbers 0
+Characteristics 00003400
+
+name 
+VirtualSize 0
+VirtualAddress 40000040
+SizeOfRawData 7373622e
+PointerToRawData 0
+PointerToRelocations 180
+PointerToLinenumbers 7000
+NumberOfRelocations 0
+NumberOfLinenumbers 0
+Characteristics 00000000
+
+name 
+VirtualSize 0
+VirtualAddress c0000080
+SizeOfRawData 6164692e
+PointerToRawData 6174
+PointerToRelocations 590
+PointerToLinenumbers 8000
+NumberOfRelocations 600
+NumberOfLinenumbers 0
+Characteristics 00003800
+
+name 
+VirtualSize 0
+VirtualAddress c0000040
+SizeOfRawData 5452432e
+PointerToRawData 0
+PointerToRelocations 68
+PointerToLinenumbers 9000
+NumberOfRelocations 200
+NumberOfLinenumbers 0
+Characteristics 00003e00
+
+name 
+VirtualSize 0
+VirtualAddress c0000040
+SizeOfRawData 736c742e
+PointerToRawData 0
+PointerToRelocations 10
+PointerToLinenumbers a000
+NumberOfRelocations 200
+NumberOfLinenumbers 0
+Characteristics 00004000
+
+name 
+VirtualSize 0
+VirtualAddress c0000040
+SizeOfRawData 7273722e
+PointerToRawData 63
+PointerToRelocations 4e8
+PointerToLinenumbers b000
+NumberOfRelocations 600
+NumberOfLinenumbers 0
+Characteristics 00004200
+
+name 
+VirtualSize 0
+VirtualAddress c0000040
+SizeOfRawData 6c65722e
+PointerToRawData 636f
+PointerToRelocations 90
+PointerToLinenumbers c000
+NumberOfRelocations 200
+NumberOfLinenumbers 0
+Characteristics 00004800
+
