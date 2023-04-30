@@ -1,3 +1,0 @@
-C:/Users/dima_/Desktop/Study/DEEP_SISTEM/1_lab/cmake-build-debug/CMakeFiles/PE_read.dir
-C:/Users/dima_/Desktop/Study/DEEP_SISTEM/1_lab/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/dima_/Desktop/Study/DEEP_SISTEM/1_lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
